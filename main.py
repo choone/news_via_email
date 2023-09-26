@@ -1,7 +1,7 @@
 import requests, sendemail
 
 api_key = "0d817cf9e8d04c40b77782c0f27dc607"
-topic = "amazon"
+topic = "tesla"
 url = ("https://newsapi.org/v2/everything?"
        f"q={topic}"
        "&from=2023-08-25"
